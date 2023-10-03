@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shah-Labhesh
-- 👀 I’m interested in Software developing
-- 🌱 I’m currently learning Flutter and Django
+- 👀 I’m interested in Software developing (Cross-platform mobile app)
+- 🌱 I’m currently learning Flutter and Spring-boot
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me ? --> you can find in LinkedIn
 
